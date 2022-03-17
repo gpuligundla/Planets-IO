@@ -1,0 +1,23 @@
+{
+  "name": "planet-s-i-o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techgeeth/Planet-s-I-O.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techgeeth/Planet-s-I-O/issues"
+  },
+  "homepage": "https://github.com/techgeeth/Planet-s-I-O#readme",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
