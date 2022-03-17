@@ -1,2 +1,2 @@
-# Planet-s-I-O
+# Planets-IO
 A Basic CSV parsing with node program
